@@ -1,0 +1,22 @@
+{
+  "aftercare-interact-1.0.0-full.zip": {
+    "sha256": "6f6e3b426c22068fc254c36b2f4644431a4dfd1d0a7e4e81f7779e4d241a48a9",
+    "bytes": 240923
+  },
+  "aftercare-interact-1.0.0.zip": {
+    "sha256": "984a7b27312b035c38a57b94376db9d36ccf94746918f7add409948c0caac5d0",
+    "bytes": 18631
+  },
+  "README.md": {
+    "sha256": "b2300c8e5e180931361013560dd3cff12e6c9c495acb0fce2112e1c32f5ea077",
+    "bytes": 2468
+  },
+  "契约修订提案.md": {
+    "sha256": "025a472589ea63e7ba3e5ea273aea9dbe4bc1ff413966167acc9dad121da3e96",
+    "bytes": 5425
+  },
+  "测试报告.md": {
+    "sha256": "933a9aced541cf238583c75cc2764936bbf741bbfec1849c4b834307c7ed5ab0",
+    "bytes": 9136
+  }
+}
